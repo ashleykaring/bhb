@@ -41,7 +41,7 @@ function App() {
     <div className="site-shell">
       <header className="site-header">
         <a className="brand" href="#top" aria-label="Blue House Bounty home">
-          <img src="/bhb-logo-no-text.jpg" alt="" />
+          <img src="/bhb-logo.jpg" alt="" />
           <span>Blue House Bounty</span>
         </a>
         <div className="header-actions">
@@ -142,10 +142,9 @@ function App() {
                 <p className="line-label">Hearty line</p>
                 <h3>A step up in nutrition</h3>
                 <p>
-                  A 50/50 blend of fresh-milled organic flour and organic Costco
-                  flour. Wheat berries are ground right here as we bake,
-                  boosting fiber and nutrients for families moving beyond
-                  store-bought bread.
+                  A 50/50 blend of fresh-milled flour and organic Costco flour.
+                  Wheat berries are ground right here as we bake, boosting fiber
+                  and nutrients for families moving beyond store-bought bread.
                 </p>
               </article>
               <article className="line-card divine">
