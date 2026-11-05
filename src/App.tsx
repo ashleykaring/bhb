@@ -167,8 +167,13 @@ function App() {
             <div className="visit-copy">
               <p>
                 Find the week&apos;s rotating selection of sourdough loaves,
-                cookies, farm goods, and more on MyPorch. Pre-order online, then
-                pick up your bounty at the stand.
+                cookies, farm goods, and more on MyPorch. Pre-order online for
+                pickup.
+              </p>
+              <p className="mt-2!">
+                <strong>Porch pickups:</strong> Tuesday and Friday afternoons
+                <br />
+                <strong>Bakery stand:</strong> Fridays, 2–4 PM
               </p>
               <a
                 className="button button-navy"
